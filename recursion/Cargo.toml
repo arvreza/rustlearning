@@ -1,5 +1,5 @@
 [package]
-name = "fibonacci"
+name = "recursion"
 version = "0.1.0"
 authors = ["arvreza <32081264+arvreza@users.noreply.github.com>"]
 edition = "2018"
